@@ -1,2 +1,0 @@
-# coMus
-Generates songs
