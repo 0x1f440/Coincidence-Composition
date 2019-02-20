@@ -1,2 +1,2 @@
-# coMus
+# Coincidence Composition
 Generates songs
